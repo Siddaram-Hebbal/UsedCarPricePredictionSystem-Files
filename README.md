@@ -78,15 +78,45 @@ Below are the interactive python notebooks
 3. [Model Planning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
 
 4. [Model Building](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Building.ipynb)
+
     4.1 [Manuall Hyper Parameter Tuning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Manual_tuning_of_parameters.ipynb)
     
     4.2 [Grid Search CV](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Using_Grid_Search_CV.ipynb)
 
 5. [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb)
 
+# Nbviewer
+
+<b align = "justify">If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
 
 
+# Contributors
 
+<p align="justify"> Tanu Nanda Prabhu : This is me, I'm doing my Master's in Computer Science, at University of Regina, Canada. Although I'm good at programming, definitely not a code monkey. I like to document each and every line of code and help others understand it. It is very important to document the code.</p>
+
+# I am an Author @
+
+1) [Towards Data Science](https://medium.com/@tanunprabhu95)
+
+2) [Analytics-Vidhya](https://medium.com/@tanunprabhu95)
+
+3) [Kotlin Academy](https://medium.com/@tanunprabhu95)
+
+4) [The Start up](https://medium.com/@tanunprabhu95)
+
+
+# Contact for help
+
+| Contact        | Info           | 
+| ------------- |:-------------:|
+| Mail id      | tanuprabhu96@gmail.com  | 
+| Phone number        | +1 306-737-9073              |   
+| Facebook       | Tanu N Prabhu      |    
+| Instagram      | tanunprabhu   |
+
+# Version
+
+<b> Version 6.0 - Last Updated on April 8 2020 - 7:09 AM <b>
 
 
 
