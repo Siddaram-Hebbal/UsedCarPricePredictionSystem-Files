@@ -94,6 +94,25 @@ Below are the interactive python notebooks
  
 <p> The deployment code requirements can be found [here](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1)
 
+Below are the steps to execute the notebooks
+
+Step 1: Download the data raw or cleaned data sets to your local system from above
+
+Step 2: Install [Jupyter Notebook](https://jupyter.org/) or use [Google Colab](https://colab.research.google.com/).
+> Note: Use anaconda jupyter notebook while building the model. Because this is much faster than google colab. Also make sure you install all the necessary libraries shown above. Also make sure your system RAM and disk space is free.
+
+Step 3: Download the notebooks to execute
+
+    3.1: Download the data preparation notebook to perfrom data exploration
+    
+    3.2: Download the model building notebook to run the model or open directly from GitHub in a colab environment.
+    
+    3.3: Download the model saving notebook to save the model to your local system
+
+Step 4: Run all the cells of the desired notebooks.
+
+To execute in google colab, copy the google drive dataset and export it to your own drive.
+
 # Contributors
 
 <p align="justify"> Tanu Nanda Prabhu : I'm doing my Master's in Computer Science, at University of Regina, Canada. Although I'm good at programming, definitely not a code monkey. I like to document each and every line of code and help others understand it. It is very important to document the code.</p>
