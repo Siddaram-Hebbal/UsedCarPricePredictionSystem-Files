@@ -56,7 +56,7 @@ To install any of the above library navigate to your command prompt and then tel
 
 ## Data Sets
 
-Raw data set (Uncleaned Data) --> Click [here] (https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU) to download
+Raw data set (Uncleaned Data) --> Click [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU) to download
 > Since the size of the dataset was very large it was unable to store it on GitHub, this is why I have provided the google drive link
 
 Cleaned data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Cleaned%20Dataset)
@@ -68,6 +68,18 @@ Testing data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPriceP
 
 Vaidation data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Validation%20set)
 
+### Python Notebooks
+Below are the interactive python notebooks
+
+1. [Data Discovery](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Discovery.ipynb)
+
+2. [Data Preparation](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Data_Preparation.ipynb)
+
+3. [Model Planning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
+
+4. [Model Building](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Building.ipynb)
+
+5. [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb)
 
 
 
