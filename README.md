@@ -50,8 +50,28 @@ To install any of the above library navigate to your command prompt and then tel
 
 
 
+# Repository Contents
+
+<b>This repository comprises all the necessary code files</b>
+
+## Data Sets
+
+Raw data set (Uncleaned Data) --> Click [here] (https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU) to download
+> Since the size of the dataset was very large it was unable to store it on GitHub, this is why I have provided the google drive link
+
+Cleaned data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Cleaned%20Dataset)
+> This the cleaned data used in the data exploration, model building phase. 
+
+Training data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing%20set)
+
+Testing data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing%20set)
+
+Vaidation data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Validation%20set)
 
 
 
 
-# Raw data set - [Download](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU)
+
+
+
+
