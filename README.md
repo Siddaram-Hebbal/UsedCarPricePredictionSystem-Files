@@ -31,12 +31,19 @@ There are two ways you can do this
 1. Download from the [requirements.txt](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1/blob/master/requirements.txt) file 
   
 2. Manually install them from below:
+
     2.1 Django==3.0.3
+    
     2.2 googletrans==2.4.0
+    
     2.3 gunicorn==20.0.4
+    
     2.4 matplotlib==3.1.3
+    
     2.5 numpy==1.18.1
+    
     2.6 pandas==1.0.1
+    
     2.7 scikit-learn==0.22.2.post1
 
 
