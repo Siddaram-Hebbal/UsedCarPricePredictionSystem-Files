@@ -78,6 +78,9 @@ Below are the interactive python notebooks
 3. [Model Planning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
 
 4. [Model Building](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Building.ipynb)
+    4.1 [Manuall Hyper Parameter Tuning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Manual_tuning_of_parameters.ipynb)
+    
+    4.2 [Grid Search CV](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Using_Grid_Search_CV.ipynb)
 
 5. [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb)
 
