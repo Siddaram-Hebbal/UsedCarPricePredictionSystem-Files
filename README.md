@@ -28,23 +28,23 @@
 
 <b>Also, you might wanna install the necessary libraries in your terminal (Command Prompt), because you need to manually install them<b>
 There are two ways you can do this
-1. <p>Download from the [requirements.txt](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1/blob/master/requirements.txt) file <p>
+1. Download from the [requirements.txt](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1/blob/master/requirements.txt) file 
   
-2. <p>Manually install them from below:<p>
+2. Manually install them from below:
 
-    2.1 Django==3.0.3
+    2.1 <p>Django==3.0.3</p>
     
-    2.2 googletrans==2.4.0
+    2.2 <p>googletrans==2.4.0</p>
     
-    2.3 gunicorn==20.0.4
+    2.3 <p>gunicorn==20.0.4</p>
     
-    2.4 matplotlib==3.1.3
+    2.4 <p>matplotlib==3.1.3</p>
     
-    2.5 numpy==1.18.1
+    2.5 <p>numpy==1.18.1</p>
     
-    2.6 pandas==1.0.1
+    2.6 <p>pandas==1.0.1</p>
     
-    2.7 scikit-learn==0.22.2.post1
+    2.7 <p>scikit-learn==0.22.2.post1</p>
     
 To install any of the above library navigate to your command prompt and then tell `pip install library-name`. If you don't have `pip` installed already then you might see a error. Download it [here](https://pypi.org/project/pip/)
 
