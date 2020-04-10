@@ -28,9 +28,9 @@
 
 <b>Also, you might wanna install the necessary libraries in your terminal (Command Prompt), because you need to manually install them<b>
 There are two ways you can do this
-1. Download from the [requirements.txt](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1/blob/master/requirements.txt) file 
+1. <p>Download from the [requirements.txt](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1/blob/master/requirements.txt) file <p>
   
-2. Manually install them from below:
+2. <p>Manually install them from below:<p>
 
     2.1 Django==3.0.3
     
@@ -45,6 +45,8 @@ There are two ways you can do this
     2.6 pandas==1.0.1
     
     2.7 scikit-learn==0.22.2.post1
+    
+To install any of the above library navigate to your command prompt and then tell `pip install library-name`. If you don't have `pip` installed already then you might see a error. Download it [here](https://pypi.org/project/pip/)
 
 
 
