@@ -68,3 +68,23 @@ plt.show()
 <p align = "center">
 <img src = "Img/comp.PNG">
   </p>
+
+
+## Solution Overview
+
+Since this category of the data set falls under supervised machine learning algorithm, the regression estimator was applied on this dataset. As seen above out of the four regression algorithms namely: Linear Regression, Decision Tree Regression, Random Forest Regression and Support Vector Regression, the Random Forest Regression gave better results in terms of prediction accuracy, mean squared error and mean absolute error. More details of the performance can be found in the above chapter 5 under model performance assessment. Before applying the regression algorithms,  the correlation between two variables (independent and dependent variables) were detected and then the dependent variables which are the price of the used car was later predicted. Basically, the categorization of the variables which is the dependent are the price and the independent variables are the features of the used car except the price was done in this stage. And then the regression algorithms were applied until a good accuracy score which was presentable. In this case, Random Forest Regression gave an accuracy score of around 86.019%.
+
+<p align = "center">
+  <img src = "Img/datafigure.PNG">
+  </p>
+  
+  
+  ## Next steps and recomendations
+  
+  Below are some of the next steps and recommendations given, this was not inculcated dud to shortage of time.
+  
+  * Currently the application has limited car models and brands. Because since there are more than 5000 different models and 50 different car brands adding altogether was time consuming. In the future all those and the new models will be added.
+  
+  * The UI will be made more still more functional by adding a user profile option such as "Login" and "Sign-up"
+  
+  * Currently there is no data base involved in storing the data. As an update all the vital information such as the price details would be stored in the data base, such that a user can access it whenever they want. This feature would be added in the upcoming days.
