@@ -39,7 +39,7 @@ Below are some of the basic prerequisites that must be followed or being aware o
 
 1. <b>Required Hardware Configuration</b>: You don't need a computer with super-high specifications to run this project. But the higher the better. For example my system specifications is as shown below. Make sure your system meets these requirements. Keep your RAM as free as you can. 
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/system.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/system.PNG" width="500">
 
 After having a look at the specifications it's now time to run the code. Follow the steps below for successful execution
 
