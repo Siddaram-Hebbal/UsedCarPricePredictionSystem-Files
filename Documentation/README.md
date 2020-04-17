@@ -17,3 +17,6 @@ This project completely follows the data analytic life cycle. All the 6 phases c
 
 Shown below is the data set and its details.
 <img src ="Img/access1%20(1).PNG">
+
+
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/detailsoffeatures%20(1).PNG">
