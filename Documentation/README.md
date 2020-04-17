@@ -6,9 +6,9 @@
 ## Data Analytic Life Cycle
 
 Data Science is an emerging interdisciplinary field. Altogether, data science is the science involved in studying the data. Data Analysis which is a part of data science has a life cycle composed of 6 phases. These phases include: Discovery, Data Preparation, Model Planning, Model Building, Communicate Results and Operationalize. The detailed data analytic life cycle can be found below:
-
+<p align = "center">
 <img src = "Img/lifecycle.PNG">
-
+</p>
 This project completely follows the data analytic life cycle. All the 6 phases can be seen above. These phases must be thoroughly understood by all the executives, engineers and analysts before moving to the user guide.
 
 1. <b>Discovery</b>: In this phase the introduction followed by problem statement along with the current situation and the desired situation was drafted. All this detailed information can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Discovery.ipynb).
@@ -16,11 +16,16 @@ This project completely follows the data analytic life cycle. All the 6 phases c
 2. <b>Data Preparation</b>: In this step all the necessary steps taken to prepare the data such as extraction,transformation,  loading  the  data  would  be  performed.   Further  the  data  was  be explored and conditioned by visualizing the results. The details of the data preparation can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Data_Preparation.ipynb)
 
 Shown below is the data set and its details.
+<p align = "center">
+
 <img src ="Img/access1%20(1).PNG">
 
+</p>
+
+<p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/detailsoffeatures%20(1).PNG">
-
+</p>
 
 3. <b>Model Planning</b>: In this phase all the variables were selected by performing the Chi-squared test and heat maps were used to select the most important variables. Also the model selection, category of techniques were performed. For more details visit [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
 
@@ -38,14 +43,18 @@ Shown below is the data set and its details.
 Below are some of the basic prerequisites that must be followed or being aware of:
 
 1. <b>Required Hardware Configuration</b>: You don't need a computer with super-high specifications to run this project. But the higher the better. For example my system specifications is as shown below. Make sure your system meets these requirements. Keep your RAM as free as you can. 
+<p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/system.PNG" width="500">
+</p>
 
 After having a look at the specifications it's now time to run the code. Follow the steps below for successful execution
 
 1. Install Jupyter Notebook or Google Colab. If the code takes a lot of time to execute in Google Colab then user Jupyter Notebook instead. 
+<p align = "center">
 
 <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/JN.png" width="200"/> <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/GC.png" width="300"/>
+</p>
 
 Below are the download links
 
@@ -53,19 +62,26 @@ Below are the download links
 
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows) `jupyter notebook`
 
-2. <b>Google Colab</b>:[Download](https://colab.research.google.com/). Here you can open, upload or create a new notebook.
+2. <b>Google Colab</b>: [Download](https://colab.research.google.com/). Here you can open, upload or create a new notebook.
  <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/new.png">
  
 3. Clone or download my GitHub repository manually or from the command line. 
 
 (Clone): [https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files.git](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files.git)
         
-        
+   <p align = "center">
+     
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/updategit.png" width="500">
+</p>
+
 
 Below are the folders that you can have a look after you clone or download
 
+<p align = "center">
+
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/folder.PNG" width="500">
+
+</p>
 
 4. Navigate to the cloned folder from your command prompt using the following command:
 
@@ -95,8 +111,12 @@ Here the data set was not created from the scratch. The data-set was retrieved f
   
  After downloading all the data set, don't forget to mount your drive from Google Colab and then you will need to provide a access key which will be prompted on your screen. 
  
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/mount.png" width="500">
-        
+ 
+ <p align = "center">
+
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/mount.png" width="300">
+    
+  </p>
 For any data set to covert and load it as a pandas data frame please use the following code.
 
 ```
@@ -152,9 +172,10 @@ Below are the necessary notebooks that performs the above phases. Since this cat
     
     
 Make sure all the path of the data sets are correct. And also while executing these notebooks please change my path location to your path stored location. Other you will get a path error. In google colab as you mount your drive where the data sets are stored, you can then right-click to get the path location and then paste it in the `read_csv()`.
-    
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/path.png" width="500">
+    <p align = "center">
 
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/path.png" width="500">
+</p>
 To reduce the execution time, you can visit the [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb) and try to save your model as a .sav file. The advantage of this is that the model would run faster then ever before. This is because the model is already loaded and saved by me.
 
 
@@ -173,8 +194,10 @@ There are two ways you can execute the application: Manually deploy the applicat
 1. This is a pretty long and straight forward process. Because here you need to create a new profile on Heroku, connect your GitHub Repository to it and then deploy the code. Please visit the [setup guide](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/SetUp\%20file/SetUp\%20Guide.pdf) to get more details about this process. 
     
 2. For this process your main key repository would be [Operationalize](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Operationalize/Django\%20Application). First clone or download the folder to your local system and then follow the [setup guide](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/SetUp\%20file/SetUp\%20Guide.pdf) to get more details about this process. 
-    
+    <p align = "center">
+
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/deploy1.PNG" width="500">
+</p>
 
 #### Opening the web application link via browser
 
@@ -188,52 +211,73 @@ The moment you open the application just feed the value of your car and get to h
 
 The application has two types of input options: Number field, where the user has to enter the desired number of their choice with respect to their used car and drop down menu where the user has to select a provided option given in the menu. Later when the user clicks on the submit button the model predicts the price based on the values given by the user and then displays underneath the submit button.
 
+<p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/finalwebsite.PNG" width="500">
+</p>
+
 
 ## Working of the application
 
 The working of the application is pretty trivial. First, the user must enter all the desired feature values of their used car as inputs to the form field as shown below:
+<p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/working.PNG" width="500">
+</p>
+
 
 As seen above the predicted price for the Mercedes Benz B class model is about 6387 euros where the original price was 6500 shown below. Just for comparison from this we can see that the prediction rate of the model is quite accurate.
+<p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/original.PNG" width="500">
+</p>
 
 ## Features of the application
 1. Secure link: Firstly the application is secure. [Heroku Cloud application platform](https://www.heroku.com/) by default provides SSL certificate, issued by DigiCert. The application uses HTTPS instead of HTTP, so data sent through our application will be safe. Below figure indicates the secure connection of our application and the certificate information is also depicted.
     
+    <p align = "center">
+
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/secure.png" width="500">
+</p>
+
+<p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/digi.PNG" width="500">
-
+</p>
 
 2. The application is very roboust
 
 
     1.   Incomplete form submission is not allowed: All the values in the forms (textfields, dropdown) must be entered. Skipping the forms will lead to a warning (Please Fill this field). A user cannot submit a empty form or a incomplete form. To allow smooth performance of the application all the values has to entered only then the form can be submitted. Show below are the use cases for the both conditions.
     
-    
+    <p align = "center">
+
     <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob1.PNG" width="200"/> <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob2.PNG
 
-
+</p>
 
     2. Character values cannot be entered in the interger fields: In some of the forms such as kilometer the user has to enter the numeric values, other than numeric the user cannot enter any values. This is the speciality of Django's integer field method which only accepts integers. Since the model accepts only numeric values this feature was very helpful.
 
 
+<p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob3.png" width="500">
+</p>
+
 
 3. Responsive: The whole application is mobile-friendly. The application adjusts itself to different aspect rations. This is the functionality of using bootstrap. Below is the screenshot take from my mobile phone (One Plus 6T).
 
+<p align = "center">
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/Screenshot_20200407-185348%20(1).jpg" width="500">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/Screenshot_20200407-185348%20(1).jpg" width="300">
 
+</p>
  4. Feedback option: This application has a feedback option. The user if they are not satisfied with the resuts or they wanted the application to be improved then they can give the feedback which is located below the submit button. The feedback form was not design from scratch, meanwhile it was extended from [jotform.com](https://www.jotform.com/).
     
+ <p align = "center">
+
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/feedback.PNG" width="500">
-    
+</p>    
 
 ## Maintenance User Guide for Engineers and Analysts
 
