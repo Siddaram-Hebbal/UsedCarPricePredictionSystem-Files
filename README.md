@@ -54,19 +54,24 @@ To install any of the above library navigate to your command prompt and then tel
 
 <b>This repository comprises all the necessary code files</b>
 
-## Data Sets
+1. Project Code and all necessary files for verification
+   
+   1.1 <b>Data</b>
+    
+      a. Raw data set (Uncleaned Data) --> Click [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU) to download 
+      > Since the size of the dataset was very large it was unable to store it on GitHub, this is why I have provided the google drive link
+      
+      b. Raw data set (Uncleaned Data) --> Click [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU) to download
+      > Since the size of the dataset was very large it was unable to store it on GitHub, this is why I have provided the google drive link
 
-Raw data set (Uncleaned Data) --> Click [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU) to download
-> Since the size of the dataset was very large it was unable to store it on GitHub, this is why I have provided the google drive link
+      c. Cleaned data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Cleaned%20Dataset)
+      > This the cleaned data used in the data exploration, model building phase. 
 
-Cleaned data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Cleaned%20Dataset)
-> This the cleaned data used in the data exploration, model building phase. 
+      d. Training data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing%20set)
 
-Training data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing%20set)
+      e. Testing data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing%20set)
 
-Testing data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing%20set)
-
-Vaidation data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Validation%20set)
+      f. Vaidation data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Validation%20set)
 
 ## Python Notebooks
 Below are the interactive python notebooks
