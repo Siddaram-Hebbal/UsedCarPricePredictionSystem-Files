@@ -252,11 +252,11 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
     
     <p align = "center">
 
-    <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob1.PNG" width="200"/> <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob2.PNG
+    <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob1.PNG" width="200"/> <img src="https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob2.PNG" width="200">
 
 </p>
 
-    2. Character values cannot be entered in the interger fields: In some of the forms such as kilometer the user has to enter the numeric values, other than numeric the user cannot enter any values. This is the speciality of Django's integer field method which only accepts integers. Since the model accepts only numeric values this feature was very helpful.
+  2. Character values cannot be entered in the interger fields: In some of the forms such as kilometer the user has to enter the numeric values, other than numeric the user cannot enter any values. This is the speciality of Django's integer field method which only accepts integers. Since the model accepts only numeric values this feature was very helpful.
 
 
 <p align = "center">
