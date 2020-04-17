@@ -74,7 +74,11 @@ Below is the working application gif along with the video
 
 Below is the video of the application uploaded on YouTube, click on the image to play the video
 
-<p align="center">
+
 [![](http://img.youtube.com/vi/AFRjLQtip7E/0.jpg)](http://www.youtube.com/watch?v=AFRjLQtip7E "Prototype Video")
-</p>
+
+
+## Set up Guide
+
+The set up giude can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/SetUp%20file/SetUp%20Guide.pdf)
 
