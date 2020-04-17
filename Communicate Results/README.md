@@ -9,3 +9,38 @@ In this desired situation as shown in the above figure, now an extra phase or st
 <p align = "center">
 <img src = "Img/Desired situation.PNG">\
 </p>
+
+# Results
+The Random Forest Regression model shown below is trained and tested well. The test set contains the examples that the learning algorithm has never seen before, so if our model performs well on predicting the labels of the examples from the test set, we can say that our model generalizes well or, simply, that it’s good. All the parameters were chosen from the grid search cv results.
+
+```
+from sklearn.ensemble import RandomForestRegressor
+start_time = time.time()               
+
+rfr = RandomForestRegressor(max_depth= 16, max_features=10, min_samples_leaf=2, n_estimators=350).fit(X_train, y_train)
+pred = rfr.predict(X_test)
+print(r2_score(y_test, pred)* 100)
+print("--- %s seconds ---" % (time.time() - start_time))           
+
+86.020619788918
+--- 40.58843374252319 seconds ---
+
+## Mean Squared Error
+
+Mean squared error is a risk metric corresponding to the expected valueof the squared (quadratic) error or loss 
+
+```
+print("Mean Absolute Error is :", mean_absolute_error(y_test, pred))
+
+Mean Absolute Error is : 1108.9950075720315
+```
+
+### Mean Mean  absolute  error
+
+Mean  absolute  error  is  the  risk  metric  corresponding  to  the  expectedvalue of the absolute loss
+
+```
+print("Mean Squared Error is :", mean_squared_error(y_test, pred))
+
+Mean Squared Error is : 2702543.7524787914
+```
