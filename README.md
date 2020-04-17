@@ -1,8 +1,10 @@
 # Used Car Price Prediction System - Necessary Code Files 
 
 ## This repository comprises all the necessary code file of the project.
-
-<img src = "https://i.imgur.com/aJMp43P.png">
+<p align = "center">
+  
+  <img src = "https://i.imgur.com/aJMp43P.png" width = "500">
+</p>
 
 <b align = "justify"> The whole project is based and follows the data-analytic life cycle shown above.</b>
 
