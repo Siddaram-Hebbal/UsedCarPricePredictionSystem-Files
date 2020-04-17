@@ -13,6 +13,8 @@ To know more about Herkou use its help command:
 `heroku help`
 
 ## Why Django was used as a web framework?
+
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. Source [Django Project](https://www.djangoproject.com/)
  
 * Written in Python
 
@@ -31,6 +33,8 @@ To know more about Herkou use its help command:
 * Supported by a large and active community
 
 ## Why Heroku and not AWS?
+
+Heroku is the quickest way for a company to become an apps company. Heroku is a service that enables companies to spend their time developing and deploying apps that immediately start producing value. Source [Heroku](https://www.heroku.com/what)
 
 * Easy setup - as a PaaS you don't need to know how to install and configure Apache, nginx, unicorn, passenger, MySQL, Postgres etc
 
