@@ -174,7 +174,7 @@ Below are the necessary notebooks that performs the above phases. Since this cat
 Make sure all the path of the data sets are correct. And also while executing these notebooks please change my path location to your path stored location. Other you will get a path error. In google colab as you mount your drive where the data sets are stored, you can then right-click to get the path location and then paste it in the `read_csv()`.
     <p align = "center">
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/path.png" width="500">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/path.png" width="300">
 </p>
 To reduce the execution time, you can visit the [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb) and try to save your model as a .sav file. The advantage of this is that the model would run faster then ever before. This is because the model is already loaded and saved by me.
 
