@@ -72,6 +72,9 @@ Below is the working application gif along with the video
 
 ### Video of the application 
 
-[![](http://img.youtube.com/vi/AFRjLQtip7E/0.jpg)](http://www.youtube.com/watch?v=AFRjLQtip7E "Prototype Video")
+Below is the video of the application uploaded on YouTube, click on the image to play the video
 
+<p align="center">
+[![](http://img.youtube.com/vi/AFRjLQtip7E/0.jpg)](http://www.youtube.com/watch?v=AFRjLQtip7E "Prototype Video")
+</p>
 
