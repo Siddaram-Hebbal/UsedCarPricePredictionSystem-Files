@@ -81,15 +81,15 @@ Here the data set was not created from the scratch. The data-set was retrieved f
 
 1. To access the raw data set please visit [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU). Since the raw data set was very larger I stored it in my drive. First please all the four sets of data sets from my repository and store it on your google drive. 
 
-  1. Raw Data set: Download [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU)
-  
-  2. Cleaned Data Set: Download [here]({https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Cleaned\%20Dataset)
-        
-  3. Training Data Set: Download [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing\%20set)
-  
-  4. Testing Data Set: Download [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing\%20set)
-        
-  5. Validation Data Set: Download [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Validation\%20set)
+    1. Raw Data set: Download [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU)
+
+    2. Cleaned Data Set: Download [here]({https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Cleaned\%20Dataset)
+
+    3. Training Data Set: Download [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing\%20set)
+
+    4. Testing Data Set: Download [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing\%20set)
+
+    5. Validation Data Set: Download [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Validation\%20set)
   
  After downloading all the data set, don't forget to mount your drive from Google Colab and then you will need to provide a access key which will be prompted on your screen. 
  
