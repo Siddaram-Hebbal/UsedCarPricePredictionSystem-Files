@@ -64,8 +64,10 @@ Heroku is the quickest way for a company to become an apps company. Heroku is a 
   
 ## Working Application
 
+Below is the working application gif along with the video
+
+<p align="center">
 <img src="Img/trim.gif" >
-
-
+</p>
 
 
