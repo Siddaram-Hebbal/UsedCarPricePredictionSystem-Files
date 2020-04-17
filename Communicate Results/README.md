@@ -49,5 +49,5 @@ Mean Squared Error is : 2702543.7524787914
 Below is the summarised table of performance metrics
 
 | Model        | Accuracy          | MSE  | MAE | Time (seconds) |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-------------:|:-------------:| -----:|
 | Random forest Regressor    | 86.02061 |2697919.9154302 | 108.0748354 | 39.57201 |
