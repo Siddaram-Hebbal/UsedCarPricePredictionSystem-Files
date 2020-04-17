@@ -77,6 +77,35 @@ Below is the video of the application uploaded on YouTube, click on the image to
 
 [![](http://img.youtube.com/vi/AFRjLQtip7E/0.jpg)](http://www.youtube.com/watch?v=AFRjLQtip7E "Prototype Video")
 
+## Deploying the application using Git 
+
+Before you can deploy your app to Heroku, you need to initialize a local Git repository and commit your application code to it
+
+1. The following example demonstrates initializing a Git repository for an app that lives in the your directory named trial directory
+    ```
+    cd myapp
+    git init
+    git add .
+    git commit -m "My first commit"
+    ```
+2. Creating a Heroku remote
+   ```
+   heroku create
+   ```
+   You can use the git remote command to confirm that a remote named heroku has been set for your app:`git remote -v`
+   
+3. Deploying code
+
+   To deploy your app to Heroku, you typically use the git `push` command to push the code from your local repository’s master branch to    your `heroku remote`, like so:
+   ```
+   git push heroku master
+   ```
+
+
+
+
+
+
 
 ## Set up Guide
 
