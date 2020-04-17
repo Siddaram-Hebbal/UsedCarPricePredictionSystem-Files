@@ -49,11 +49,11 @@ After having a look at the specifications it's now time to run the code. Follow 
 
 Below are the download links
 
-1. Jupyter Notebook: [Download](https://jupyter.org/install) or run this on your command prompt `pip install notebook`
+1. <b>Jupyter Notebook</b>: [Download](https://jupyter.org/install) or run this on your command prompt `pip install notebook`
 
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows) `jupyter notebook`
 
-2. Google Colab:[Download](https://colab.research.google.com/). Here you can open, upload or create a new notebook.
+2. <b>Google Colab</b>:[Download](https://colab.research.google.com/). Here you can open, upload or create a new notebook.
  <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/new.png">
  
 3. Clone or download my GitHub repository manually or from the command line. 
@@ -61,11 +61,11 @@ Congratulations, you have installed Jupyter Notebook! To run the notebook, run t
 (Clone): [https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files.git](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files.git)
         
         
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/updategit.png">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/updategit.png" width="500">
 
 Below are the folders that you can have a look after you clone or download
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/folder.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/folder.PNG" width="500">
 
 4. Navigate to the cloned folder from your command prompt using the following command:
 
@@ -95,7 +95,7 @@ Here the data set was not created from the scratch. The data-set was retrieved f
   
  After downloading all the data set, don't forget to mount your drive from Google Colab and then you will need to provide a access key which will be prompted on your screen. 
  
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/mount.png">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/mount.png" width="500">
         
 For any data set to covert and load it as a pandas data frame please use the following code.
 
@@ -153,7 +153,7 @@ Below are the necessary notebooks that performs the above phases. Since this cat
     
 Make sure all the path of the data sets are correct. And also while executing these notebooks please change my path location to your path stored location. Other you will get a path error. In google colab as you mount your drive where the data sets are stored, you can then right-click to get the path location and then paste it in the `read_csv()`.
     
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/path.png">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/path.png" width="500">
 
 To reduce the execution time, you can visit the [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb) and try to save your model as a .sav file. The advantage of this is that the model would run faster then ever before. This is because the model is already loaded and saved by me.
 
@@ -174,7 +174,7 @@ There are two ways you can execute the application: Manually deploy the applicat
     
 2. For this process your main key repository would be [Operationalize](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Operationalize/Django\%20Application). First clone or download the folder to your local system and then follow the [setup guide](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/SetUp\%20file/SetUp\%20Guide.pdf) to get more details about this process. 
     
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/deploy1.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/deploy1.PNG" width="500">
 
 #### Opening the web application link via browser
 
@@ -189,24 +189,24 @@ The moment you open the application just feed the value of your car and get to h
 The application has two types of input options: Number field, where the user has to enter the desired number of their choice with respect to their used car and drop down menu where the user has to select a provided option given in the menu. Later when the user clicks on the submit button the model predicts the price based on the values given by the user and then displays underneath the submit button.
 
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/finalwebsite.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/finalwebsite.PNG" width="500">
 
 ## Working of the application
 
 The working of the application is pretty trivial. First, the user must enter all the desired feature values of their used car as inputs to the form field as shown below:
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/working.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/working.PNG" width="500">
 
 As seen above the predicted price for the Mercedes Benz B class model is about 6387 euros where the original price was 6500 shown below. Just for comparison from this we can see that the prediction rate of the model is quite accurate.
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/original.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/original.PNG" width="500">
 
 ## Features of the application
 1. Secure link: Firstly the application is secure. [Heroku Cloud application platform](https://www.heroku.com/) by default provides SSL certificate, issued by DigiCert. The application uses HTTPS instead of HTTP, so data sent through our application will be safe. Below figure indicates the secure connection of our application and the certificate information is also depicted.
     
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/secure.png">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/secure.png" width="500">
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/digi.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/digi.PNG" width="500">
 
 
 2. The application is very roboust
@@ -223,16 +223,16 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
 
 
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob3.png">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/rob3.png" width="500">
 
 3. Responsive: The whole application is mobile-friendly. The application adjusts itself to different aspect rations. This is the functionality of using bootstrap. Below is the screenshot take from my mobile phone (One Plus 6T).
 
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/Screenshot_20200407-185348%20(1).jpg">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/Screenshot_20200407-185348%20(1).jpg" width="500">
 
  4. Feedback option: This application has a feedback option. The user if they are not satisfied with the resuts or they wanted the application to be improved then they can give the feedback which is located below the submit button. The feedback form was not design from scratch, meanwhile it was extended from [jotform.com](https://www.jotform.com/).
     
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/feedback.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/feedback.PNG" width="500">
     
 
 ## Maintenance User Guide for Engineers and Analysts
