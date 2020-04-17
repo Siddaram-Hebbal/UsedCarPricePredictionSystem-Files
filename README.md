@@ -1,6 +1,15 @@
 # Used Car Price Prediction System - Necessary Code Files 
 
-## This repository comprises all the necessary code file of the project.
+<p align = "center">
+  <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Img/freeLogo.jpeg">
+  
+  </p>
+
+## Introduction
+<p align = "justify">Vehicle value forecast is both a basic and a significant errand, particularly when the vehicle is used or coming legitimately from the production line. It is also a fascinating and a prominent issue. Often the vehicle value will always depend on its features or specifications. Better features increase the value of the vehicle. Wouldn’t it be awesome to build a model that would predict the price of the vehicle given the features? Here, the vehicle would be a "Used car". Because most of the people prefer to buy a used car than a brand-new car because of various reasons, and one of them is poor financial conditions. In this project, a machine learning model is developed with the help of which of you can predict the price of a used car. The value of a used car depends on several factors. Some main factors are the make (model) of the car, the origin, the number of kilometers it has run, power, year of registration, fuel type, and gearbox. Unfortunately, all the above feature information is not always available to the buyer online. The buyer then must buy the car at a certain price and end up thinking if the car is worth the price or not? Similarly, the seller here won’t prefer to sell their car for a very cheap price. Through setting unfair costs for the used cars, consumers can be subjugated easily, and much might fall into the trap. There is a need for a used car price prediction system to determine the worthiness of the car using a variety of features. </p>
+
+
+## Data Analysis Life Cycle
 <p align = "center">
   
   <img src = "https://i.imgur.com/aJMp43P.png" width = "500">
