@@ -22,7 +22,7 @@ Shown below is the data set and its details.
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/detailsoffeatures%20(1).PNG">
 
 
-3. <b>Model Planning<b>: In this phase all the variables were selected by performing the Chi-squared test and heat maps were used to select the most important variables. Also the model selection, category of techniques were performed. For more details visit [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
+3. <b>Model Planning</b>: In this phase all the variables were selected by performing the Chi-squared test and heat maps were used to select the most important variables. Also the model selection, category of techniques were performed. For more details visit [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
 
 4. <b>Model Building</b>: In this phase splitting the data sets into 3 sets, choosing the model, checking for overfitting and underfitting conditions and the hyperparameter tuning were performed. For more details visit [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Building.ipynb)
 
