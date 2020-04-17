@@ -46,7 +46,7 @@ print("Mean Squared Error is :", mean_squared_error(y_test, pred))
 
 Mean Squared Error is : 2702543.7524787914
 ```
-Below is the summarised table of performance metrics
+Below is the summarised table of performance metrics. There were four other model that were implemented but out of which only Random Forest Regression gave exceptional results. Details of the model can be found in my [Report](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Communicate%20Results/Data_Science_Final_Report.pdf)
 
 | Model        | Accuracy          | MSE  | MAE | Time (seconds) |
 | ------------- |:-------------:| :-------------:|:-------------:| -----:|
