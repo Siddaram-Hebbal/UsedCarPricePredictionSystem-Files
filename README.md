@@ -56,7 +56,7 @@ To install any of the above library navigate to your command prompt and then tel
 
 1. Project Code and all necessary files for verification
    
-   1.1 <b>Data</b>
+   1.1 Data
     
       a. Raw data set (Uncleaned Data) --> Click [here](https://drive.google.com/open?id=10uHx8frC71x5cpAPEcyUwjRzW5fJe4GU) to download 
       > Since the size of the dataset was very large it was unable to store it on GitHub, this is why I have provided the google drive link
@@ -72,23 +72,26 @@ To install any of the above library navigate to your command prompt and then tel
       e. Testing data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Testing%20set)
 
       f. Vaidation data set --> Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Validation%20set)
-
-## Python Notebooks
-Below are the interactive python notebooks
-
-1. [Data Discovery](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Discovery.ipynb)
-
-2. [Data Preparation](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Data_Preparation.ipynb)
-
-3. [Model Planning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
-
-4. [Model Building](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Building.ipynb)
-
-    4.1 [Manuall Hyper Parameter Tuning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Manual_tuning_of_parameters.ipynb)
+      
+    1.2 [Self-contained Setup Guide](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/SetUp%20file): Click [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/SetUp%20file) to view it. All the requirements to run the code.
     
-    4.2 [Grid Search CV](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Using_Grid_Search_CV.ipynb)
+    1.3 Code/Set Up files
+    
+    Below are the interactive python notebooks
 
-5. [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb)
+      1.3.1 [Data Discovery](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Discovery.ipynb)
+
+      1.3.2. [Data Preparation](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Data_Preparation.ipynb)
+
+      1.3.3. [Model Planning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb)
+
+      1.3.4. [Model Building](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Building.ipynb)
+
+      1.3.4.1 [Manuall Hyper Parameter Tuning](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Manual_tuning_of_parameters.ipynb)
+
+      1.3.4.2 [Grid Search CV](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Using_Grid_Search_CV.ipynb)
+
+      1.3.5. [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb)
 
 
 # Nbviewer
