@@ -51,3 +51,20 @@ Below is the summarised table of performance metrics. There were four other mode
 | Model        | Accuracy          | MSE  | MAE | Time (seconds) |
 | ------------- |:-------------:| :-------------:|:-------------:| -----:|
 | Random forest Regressor    | 86.02061 |2697919.9154302 | 108.0748354 | 39.57201 |
+
+
+## Comparison of the predicted values with existing values
+
+Below is the comparison between the predicted values vs the actual values. There is no much of a difference as seen in the plot below:
+
+```
+df1 = df.head(35)
+df1.plot(kind='bar',figsize=(10,5.5))
+plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
+plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
+plt.show()
+```
+
+<p align = "center">
+<img src = "Img/comp.PNG">
+  </p>
