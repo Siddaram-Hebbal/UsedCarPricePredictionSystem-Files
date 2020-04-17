@@ -25,6 +25,8 @@ print("--- %s seconds ---" % (time.time() - start_time))
 86.020619788918
 --- 40.58843374252319 seconds ---
 
+```
+
 ## Mean Squared Error
 
 Mean squared error is a risk metric corresponding to the expected valueof the squared (quadratic) error or loss 
@@ -44,3 +46,8 @@ print("Mean Squared Error is :", mean_squared_error(y_test, pred))
 
 Mean Squared Error is : 2702543.7524787914
 ```
+Below is the summarised table of performance metrics
+
+| Model        | Accuracy          | MSE  | MAE | Time (seconds) |
+| ------------- |:-------------:| -----:|
+| Random forest Regressor    | 86.02061 |2697919.9154302 | 108.0748354 | 39.57201 |
