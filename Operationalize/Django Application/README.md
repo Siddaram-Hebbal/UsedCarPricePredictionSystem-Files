@@ -70,4 +70,8 @@ Below is the working application gif along with the video
 <img src="Img/trim.gif" >
 </p>
 
+### Video of the application 
+
+[![](http://img.youtube.com/vi/AFRjLQtip7E/0.jpg)](http://www.youtube.com/watch?v=AFRjLQtip7E "Prototype Video")
+
 
