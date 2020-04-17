@@ -60,5 +60,12 @@ Heroku is the quickest way for a company to become an apps company. Heroku is a 
 | Built-in Tools for Management and Monitoring | <ul><li>Heroku Command Line </li><li>Heroku Application Metrics</li><li>Heroku Connect </li</ul> |   <ul><li>AWS Management Console AWS Command Line Interface (AWS CLI)</li></ul> |
 | Development of server | The creation of a server is a simple process.	    |    The creation of a server is a relatively complicated process.|
   
+  
+  
+## Working Application
+
+<img src="Img/trim.gif" >
+
+
 
 
