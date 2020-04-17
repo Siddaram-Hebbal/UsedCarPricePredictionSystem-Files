@@ -233,7 +233,8 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
 </p>
 
 ## Features of the application
-1. Secure link: Firstly the application is secure. [Heroku Cloud application platform](https://www.heroku.com/) by default provides SSL certificate, issued by DigiCert. The application uses HTTPS instead of HTTP, so data sent through our application will be safe. Below figure indicates the secure connection of our application and the certificate information is also depicted.
+
+1. <b>Secure link</b>: Firstly the application is secure. [Heroku Cloud application platform](https://www.heroku.com/) by default provides SSL certificate, issued by DigiCert. The application uses HTTPS instead of HTTP, so data sent through our application will be safe. Below figure indicates the secure connection of our application and the certificate information is also depicted.
     
     <p align = "center">
 
@@ -245,7 +246,7 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/digi.PNG" width="300">
 </p>
 
-2. The application is very roboust
+2. <b>The application is very roboust</b>:
 
 
     1.   Incomplete form submission is not allowed: All the values in the forms (textfields, dropdown) must be entered. Skipping the forms will lead to a warning (Please Fill this field). A user cannot submit a empty form or a incomplete form. To allow smooth performance of the application all the values has to entered only then the form can be submitted. Show below are the use cases for the both conditions.
@@ -265,14 +266,15 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
 </p>
 
 
-3. Responsive: The whole application is mobile-friendly. The application adjusts itself to different aspect rations. This is the functionality of using bootstrap. Below is the screenshot take from my mobile phone (One Plus 6T).
+3. <b>Responsive</b>: The whole application is mobile-friendly. The application adjusts itself to different aspect rations. This is the functionality of using bootstrap. Below is the screenshot take from my mobile phone (One Plus 6T).
 
 <p align = "center">
 
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/Screenshot_20200407-185348%20(1).jpg" width="300">
 
 </p>
- 4. Feedback option: This application has a feedback option. The user if they are not satisfied with the resuts or they wanted the application to be improved then they can give the feedback which is located below the submit button. The feedback form was not design from scratch, meanwhile it was extended from [jotform](https://www.jotform.com/).
+
+ 4. <b>Feedback option</b>: This application has a feedback option. The user if they are not satisfied with the resuts or they wanted the application to be improved then they can give the feedback which is located below the submit button. The feedback form was not design from scratch, meanwhile it was extended from [jot-form](https://www.jotform.com/)
     
  <p align = "center">
 
@@ -284,7 +286,7 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
 There is always scope for improvement. Since there are many different car brands and model, new model or used car model keep increasing every month. In the future if there is an addition of a new car with respect to brand or model or in other words you need to update the data set follow the below steps to have code up and running.
 
 
-1. Visit the [Data Preparation]({https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Data_Preparation.ipynb) notebook and change the path of the old data set to the new data set. You need to again perform all the operations on the existing data sets like exploration, conditioning. Follow the same steps given in the notebook. 
+1. Visit the [Data Preparation](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Data_Preparation.ipynb) notebook and change the path of the old data set to the new data set. You need to again perform all the operations on the existing data sets like exploration, conditioning. Follow the same steps given in the notebook. 
     
 2. After successfully cleaning the data, now you have to plan and build the model. Now you can change or remove the features in the [Model Planning phase](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Planning.ipynb). But in the model building phase split the new cleaned data set into three set, and execute all the given cell. As normal compare the results of all the models and then choose the best one for operationalize. You can also add any learning algorithm if you think it gives good results in this phase.
     
