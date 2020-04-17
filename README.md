@@ -32,19 +32,19 @@ There are two ways you can do this
   
 2. Manually install them from below:
 
-    2.1 `Django==3.0.3`
+    `Django==3.0.3`
     
-    2.2 `googletrans==2.4.0`
+    `googletrans==2.4.0`
     
-    2.3 `gunicorn==20.0.4`
+    `gunicorn==20.0.4`
     
-    2.4 `matplotlib==3.1.3`
+    `matplotlib==3.1.3`
     
-    2.5 `numpy==1.18.1`
+    `numpy==1.18.1`
     
-    2.6 `pandas==1.0.1`
+    `pandas==1.0.1`
     
-    2.7 `scikit-learn==0.22.2.post1`
+    `scikit-learn==0.22.2.post1`
     
 To install any of the above library navigate to your command prompt and then tell `pip install library-name`. If you don't have `pip` installed already then you might see a error. Download it [here](https://pypi.org/project/pip/)
 
@@ -131,7 +131,7 @@ To execute in google colab, copy the google drive dataset and export it to your 
 
 # Version
 
-<b> Version 6.0 - Last Updated on April 8 2020 - 7:09 AM <b>
+<b> Version 10.0 - Last Updated on April 17 2020 - 3:09 PM <b>
 
 
 
