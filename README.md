@@ -92,7 +92,7 @@ Below are the interactive python notebooks
 
 # Deployment code
  
-<p> The deployment code requirements can be found [here](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1)
+The deployment code requirements can be found [here](https://github.com/Tanu-N-Prabhu/Used_Car_Price_Prediction_System1) or [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Operationalize/Django%20Application)
   
 # Steps to run the notebooks
 
