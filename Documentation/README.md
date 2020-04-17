@@ -272,7 +272,7 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
 <img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/Screenshot_20200407-185348%20(1).jpg" width="300">
 
 </p>
- 4. Feedback option: This application has a feedback option. The user if they are not satisfied with the resuts or they wanted the application to be improved then they can give the feedback which is located below the submit button. The feedback form was not design from scratch, meanwhile it was extended from [jotform.com](https://www.jotform.com/).
+ 4. Feedback option: This application has a feedback option. The user if they are not satisfied with the resuts or they wanted the application to be improved then they can give the feedback which is located below the submit button. The feedback form was not design from scratch, meanwhile it was extended from [jotform](https://www.jotform.com/).
     
  <p align = "center">
 
