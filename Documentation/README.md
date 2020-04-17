@@ -222,7 +222,7 @@ The application has two types of input options: Number field, where the user has
 The working of the application is pretty trivial. First, the user must enter all the desired feature values of their used car as inputs to the form field as shown below:
 <p align = "center">
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/working.PNG" width="500">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/working.PNG" width="300">
 </p>
 
 
@@ -242,7 +242,7 @@ As seen above the predicted price for the Mercedes Benz B class model is about 6
 
 <p align = "center">
 
-<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/digi.PNG" width="500">
+<img src = "https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/Img/digi.PNG" width="300">
 </p>
 
 2. The application is very roboust
