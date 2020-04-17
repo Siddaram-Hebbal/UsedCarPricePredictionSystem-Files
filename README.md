@@ -92,7 +92,32 @@ To install any of the above library navigate to your command prompt and then tel
       1.3.4.2 [Grid Search CV](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Random_Forest_Using_Grid_Search_CV.ipynb)
 
       1.3.5. [Model Saving](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Model_Saving.ipynb)
+      
+      1.3.6 [Deployment](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Operationalize/Django%20Application)
+      
+    1.4 [Documentation](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Documentation) (with full Screenshots)
+    
+      1.4.1 [User-guide for engineers](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/User_Guides.pdf)
+      
+      1.4.2 [User-guide for analysts](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/User_Guides.pdf)
+      
+      1.4.3 [User-guide for executives](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Documentation/User_Guides.pdf)
+      
 
+2. Presentation
+
+    2.1 Powerpoint, PDF or another format of slides (for this course/ analysts) can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Communicate%20Results)
+    
+    
+   2.2 Recorded Presentation (12-15 minutes) video on [YouTube](https://www.youtube.com/watch?v=4aAHyhvNJUc&t=757s)
+   
+   2.3 Project report (all sections of the proposal + data analytics lifecycle with screenshots) can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Communicate%20Results/Data_Science_Final_Report.pdf)
+   
+   2.4 Powerpoint, PDF, or another form of slides for executives can be found here
+      
+      
+      
+     
 
 # Nbviewer
 
