@@ -124,7 +124,7 @@ To install any of the above library navigate to your command prompt and then tel
    
    2.3 Project report (all sections of the proposal + data analytics lifecycle with screenshots) can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Communicate%20Results/Data_Science_Final_Report.pdf)
    
-   2.4 Powerpoint, PDF, or another form of slides for executives can be found here
+   2.4 Powerpoint, PDF, or another form of slides for executives can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/blob/master/Communicate%20Results/Data%20Science%20Powerpoint%20for%20executives.ppt). Also all the kinds of ppt, PDF can be found [here](https://github.com/Tanu-N-Prabhu/UsedCarPricePredictionSystem-Files/tree/master/Communicate%20Results).
       
       
       
